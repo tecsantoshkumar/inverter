@@ -23,7 +23,8 @@ User/inverter/app.o: ../User/inverter/app.c \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_misc.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/conf.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/types.h \
- /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/types.h
+ /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/types.h \
+ /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/inverter.h
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/hardware.h:
 
@@ -74,3 +75,5 @@ User/inverter/app.o: ../User/inverter/app.c \
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/types.h:
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/types.h:
+
+/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/inverter/Inc/inverter.h:

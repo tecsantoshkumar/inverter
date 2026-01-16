@@ -79,8 +79,8 @@ SYMBOL TABLE:
 00000000 l    df *ABS*	00000000 ./Startup/startup_ch32v10x.o
 00000038 l       .vector	00000000 _vector_base
 00000000 l    df *ABS*	00000000 app.c
-20000098 l     O .bss	00000004 last_measure_tick.4551
-2000009c l     O .bss	00000004 last_modulate_tick.4552
+20000098 l     O .bss	00000004 last_measure_tick.4555
+2000009c l     O .bss	00000004 last_modulate_tick.4556
 00000000 l    df *ABS*	00000000 hardware.c
 00000000 l    df *ABS*	00000000 ch32v10x_it.c
 00000000 l    df *ABS*	00000000 main.c
@@ -541,7 +541,7 @@ Disassembly of section .text:
      260:	40e50733          	sub	a4,a0,a4
      264:	00e6f363          	bgeu	a3,a4,26a <wyre_loop+0x1a>
      268:	c388                	sw	a0,0(a5)
-     26a:	81c18793          	addi	a5,gp,-2020 # 2000009c <last_modulate_tick.4552>
+     26a:	81c18793          	addi	a5,gp,-2020 # 2000009c <last_modulate_tick.4556>
      26e:	4398                	lw	a4,0(a5)
      270:	1f300693          	li	a3,499
      274:	40e50733          	sub	a4,a0,a4

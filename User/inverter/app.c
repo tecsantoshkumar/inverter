@@ -4,6 +4,7 @@
 #include "ch32v10x.h"
 #include  "conf.h"
 #include "types.h"
+#include "inverter.h"
 
 extern Inverter dev;
 

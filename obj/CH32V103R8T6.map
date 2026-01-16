@@ -2062,9 +2062,9 @@ END GROUP
                 0x0000000020000098                . = ALIGN (0x4)
                 0x0000000020000098                PROVIDE (_sbss = .)
  *(.sbss*)
- .sbss.last_measure_tick.4551
+ .sbss.last_measure_tick.4555
                 0x0000000020000098        0x4 ./User/inverter/app.o
- .sbss.last_modulate_tick.4552
+ .sbss.last_modulate_tick.4556
                 0x000000002000009c        0x4 ./User/inverter/app.o
  .sbss.Calibrattion_Val
                 0x00000000200000a0        0x2 ./User/inverter/hardware.o
