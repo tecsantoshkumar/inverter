@@ -6,21 +6,18 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
 ../User/inverter/app.c \
-../User/inverter/device.c \
 ../User/inverter/hardware.c \
 ../User/inverter/inverter.c \
 ../User/inverter/priority_queue.c 
 
 C_DEPS += \
 ./User/inverter/app.d \
-./User/inverter/device.d \
 ./User/inverter/hardware.d \
 ./User/inverter/inverter.d \
 ./User/inverter/priority_queue.d 
 
 OBJS += \
 ./User/inverter/app.o \
-./User/inverter/device.o \
 ./User/inverter/hardware.o \
 ./User/inverter/inverter.o \
 ./User/inverter/priority_queue.o 
@@ -28,7 +25,6 @@ OBJS += \
 
 EXPANDS += \
 ./User/inverter/app.c.234r.expand \
-./User/inverter/device.c.234r.expand \
 ./User/inverter/hardware.c.234r.expand \
 ./User/inverter/inverter.c.234r.expand \
 ./User/inverter/priority_queue.c.234r.expand 

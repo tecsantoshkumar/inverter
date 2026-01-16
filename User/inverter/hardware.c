@@ -1,7 +1,6 @@
 #include "ch32v10x_conf.h"
 #include <stdbool.h>
 #include <string.h>
-#include "setup_config.h"
 #include "hardware.h"
 #include "conf.h"
 #include "debug.h"
