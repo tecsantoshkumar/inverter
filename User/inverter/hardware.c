@@ -66,10 +66,7 @@ void wyre_hardware_init(void)
      *-----------------------------------------------------------*/
     wyre_uart_init();
 
-    // sprintf(uart_tx_buffer,"System Clock set to %lu Hz\n",SystemCoreClock);
-    // wyre_print(uart_tx_buffer);
-    // PRINT("System Clock set to %lu Hz\n", SystemCoreClock);
-    
+    printf("System Clock set to %lu Hz\n", SystemCoreClock);
     
     /*-----------------------------------------------------------
      * GPIO Configuration

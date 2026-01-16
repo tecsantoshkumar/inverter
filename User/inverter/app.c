@@ -10,7 +10,6 @@ extern Inverter dev;
 extern uint8_t testFalg;
 
 char tempBuffer[250];
-#define ADC_SAMPLES   40
 extern FlagStatus SecFlag;
 extern uint16_t ADC_Buffer[ADC_DMA_SAMPLES];
 
