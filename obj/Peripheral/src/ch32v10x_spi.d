@@ -2,8 +2,8 @@ Peripheral/src/ch32v10x_spi.o: ../Peripheral/src/ch32v10x_spi.c \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_spi.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/core_riscv.h \
- /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/system_ch32v10x.h \
- /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/ch32v10x_conf.h \
+ /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/system_ch32v10x.h \
+ /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/ch32v10x_conf.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_adc.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_bkp.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_crc.h \
@@ -18,7 +18,7 @@ Peripheral/src/ch32v10x_spi.o: ../Peripheral/src/ch32v10x_spi.c \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_tim.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_usart.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_wwdg.h \
- /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/ch32v10x_it.h \
+ /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/ch32v10x_it.h \
  /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_misc.h
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_spi.h:
@@ -27,9 +27,9 @@ Peripheral/src/ch32v10x_spi.o: ../Peripheral/src/ch32v10x_spi.c \
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/core_riscv.h:
 
-/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/system_ch32v10x.h:
+/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/system_ch32v10x.h:
 
-/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/ch32v10x_conf.h:
+/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/ch32v10x_conf.h:
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_adc.h:
 
@@ -59,6 +59,6 @@ Peripheral/src/ch32v10x_spi.o: ../Peripheral/src/ch32v10x_spi.c \
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_wwdg.h:
 
-/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/User/Inc/ch32v10x_it.h:
+/home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Core/ch32v10x_it.h:
 
 /home/ubuntu12345/inverter/mounriver-studio-projects/inverter-ch32/Peripheral/inc/ch32v10x_misc.h:

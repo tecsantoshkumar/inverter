@@ -330,7 +330,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x78 ./Peripheral/src/ch32v10x_bkp.o
  .debug_ranges  0x0000000000000000       0x68 ./Peripheral/src/ch32v10x_bkp.o
- .debug_line    0x0000000000000000      0x663 ./Peripheral/src/ch32v10x_bkp.o
+ .debug_line    0x0000000000000000      0x617 ./Peripheral/src/ch32v10x_bkp.o
  .debug_str     0x0000000000000000      0x6d4 ./Peripheral/src/ch32v10x_bkp.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_bkp.o
  .debug_frame   0x0000000000000000       0xec ./Peripheral/src/ch32v10x_bkp.o
@@ -355,7 +355,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_crc.o
  .debug_ranges  0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_crc.o
- .debug_line    0x0000000000000000      0x3a6 ./Peripheral/src/ch32v10x_crc.o
+ .debug_line    0x0000000000000000      0x3a2 ./Peripheral/src/ch32v10x_crc.o
  .debug_str     0x0000000000000000      0x2aa ./Peripheral/src/ch32v10x_crc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_crc.o
  .debug_frame   0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_crc.o
@@ -376,7 +376,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_dbgmcu.o
  .debug_ranges  0x0000000000000000       0x28 ./Peripheral/src/ch32v10x_dbgmcu.o
- .debug_line    0x0000000000000000      0x3c3 ./Peripheral/src/ch32v10x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x377 ./Peripheral/src/ch32v10x_dbgmcu.o
  .debug_str     0x0000000000000000      0x265 ./Peripheral/src/ch32v10x_dbgmcu.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_dbgmcu.o
  .debug_frame   0x0000000000000000       0x50 ./Peripheral/src/ch32v10x_dbgmcu.o
@@ -424,7 +424,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x50 ./Peripheral/src/ch32v10x_exti.o
  .debug_ranges  0x0000000000000000       0x40 ./Peripheral/src/ch32v10x_exti.o
- .debug_line    0x0000000000000000      0x5cf ./Peripheral/src/ch32v10x_exti.o
+ .debug_line    0x0000000000000000      0x583 ./Peripheral/src/ch32v10x_exti.o
  .debug_str     0x0000000000000000      0x3bc ./Peripheral/src/ch32v10x_exti.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_exti.o
  .debug_frame   0x0000000000000000       0x90 ./Peripheral/src/ch32v10x_exti.o
@@ -511,7 +511,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x120 ./Peripheral/src/ch32v10x_flash.o
  .debug_ranges  0x0000000000000000      0x110 ./Peripheral/src/ch32v10x_flash.o
- .debug_line    0x0000000000000000     0x1f20 ./Peripheral/src/ch32v10x_flash.o
+ .debug_line    0x0000000000000000     0x1ed4 ./Peripheral/src/ch32v10x_flash.o
  .debug_str     0x0000000000000000      0x787 ./Peripheral/src/ch32v10x_flash.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_flash.o
  .debug_frame   0x0000000000000000      0x390 ./Peripheral/src/ch32v10x_flash.o
@@ -626,7 +626,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000      0x110 ./Peripheral/src/ch32v10x_i2c.o
  .debug_ranges  0x0000000000000000      0x100 ./Peripheral/src/ch32v10x_i2c.o
- .debug_line    0x0000000000000000     0x1136 ./Peripheral/src/ch32v10x_i2c.o
+ .debug_line    0x0000000000000000     0x10ea ./Peripheral/src/ch32v10x_i2c.o
  .debug_str     0x0000000000000000      0x70f ./Peripheral/src/ch32v10x_i2c.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_i2c.o
  .debug_frame   0x0000000000000000      0x264 ./Peripheral/src/ch32v10x_i2c.o
@@ -651,7 +651,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_iwdg.o
  .debug_ranges  0x0000000000000000       0x38 ./Peripheral/src/ch32v10x_iwdg.o
- .debug_line    0x0000000000000000      0x3ee ./Peripheral/src/ch32v10x_iwdg.o
+ .debug_line    0x0000000000000000      0x3a2 ./Peripheral/src/ch32v10x_iwdg.o
  .debug_str     0x0000000000000000      0x325 ./Peripheral/src/ch32v10x_iwdg.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_iwdg.o
  .debug_frame   0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_iwdg.o
@@ -687,7 +687,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x68 ./Peripheral/src/ch32v10x_pwr.o
  .debug_ranges  0x0000000000000000       0xc8 ./Peripheral/src/ch32v10x_pwr.o
- .debug_line    0x0000000000000000      0x81d ./Peripheral/src/ch32v10x_pwr.o
+ .debug_line    0x0000000000000000      0x7d1 ./Peripheral/src/ch32v10x_pwr.o
  .debug_str     0x0000000000000000      0x844 ./Peripheral/src/ch32v10x_pwr.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_pwr.o
  .debug_frame   0x0000000000000000       0xcc ./Peripheral/src/ch32v10x_pwr.o
@@ -785,7 +785,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x80 ./Peripheral/src/ch32v10x_rtc.o
  .debug_ranges  0x0000000000000000       0x70 ./Peripheral/src/ch32v10x_rtc.o
- .debug_line    0x0000000000000000      0x99e ./Peripheral/src/ch32v10x_rtc.o
+ .debug_line    0x0000000000000000      0x952 ./Peripheral/src/ch32v10x_rtc.o
  .debug_str     0x0000000000000000      0x435 ./Peripheral/src/ch32v10x_rtc.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_rtc.o
  .debug_frame   0x0000000000000000      0x12c ./Peripheral/src/ch32v10x_rtc.o
@@ -837,7 +837,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xb8 ./Peripheral/src/ch32v10x_spi.o
  .debug_ranges  0x0000000000000000       0xa8 ./Peripheral/src/ch32v10x_spi.o
- .debug_line    0x0000000000000000      0x9f2 ./Peripheral/src/ch32v10x_spi.o
+ .debug_line    0x0000000000000000      0x9a6 ./Peripheral/src/ch32v10x_spi.o
  .debug_str     0x0000000000000000      0x57f ./Peripheral/src/ch32v10x_spi.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_spi.o
  .debug_frame   0x0000000000000000      0x15c ./Peripheral/src/ch32v10x_spi.o
@@ -1091,7 +1091,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x58 ./Peripheral/src/ch32v10x_usb.o
  .debug_ranges  0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_usb.o
- .debug_line    0x0000000000000000      0x743 ./Peripheral/src/ch32v10x_usb.o
+ .debug_line    0x0000000000000000      0x73f ./Peripheral/src/ch32v10x_usb.o
  .debug_str     0x0000000000000000      0x6ca ./Peripheral/src/ch32v10x_usb.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_usb.o
  .debug_frame   0x0000000000000000       0x90 ./Peripheral/src/ch32v10x_usb.o
@@ -1170,7 +1170,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0xc8 ./Peripheral/src/ch32v10x_usb_host.o
  .debug_ranges  0x0000000000000000       0xd8 ./Peripheral/src/ch32v10x_usb_host.o
- .debug_line    0x0000000000000000     0x19f9 ./Peripheral/src/ch32v10x_usb_host.o
+ .debug_line    0x0000000000000000     0x19f5 ./Peripheral/src/ch32v10x_usb_host.o
  .debug_str     0x0000000000000000      0xc55 ./Peripheral/src/ch32v10x_usb_host.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_usb_host.o
  .debug_frame   0x0000000000000000      0x2bc ./Peripheral/src/ch32v10x_usb_host.o
@@ -1199,7 +1199,7 @@ Discarded input sections
  .debug_aranges
                 0x0000000000000000       0x58 ./Peripheral/src/ch32v10x_wwdg.o
  .debug_ranges  0x0000000000000000       0x48 ./Peripheral/src/ch32v10x_wwdg.o
- .debug_line    0x0000000000000000      0x492 ./Peripheral/src/ch32v10x_wwdg.o
+ .debug_line    0x0000000000000000      0x446 ./Peripheral/src/ch32v10x_wwdg.o
  .debug_str     0x0000000000000000      0x2e1 ./Peripheral/src/ch32v10x_wwdg.o
  .comment       0x0000000000000000       0x34 ./Peripheral/src/ch32v10x_wwdg.o
  .debug_frame   0x0000000000000000       0xa4 ./Peripheral/src/ch32v10x_wwdg.o
@@ -2130,21 +2130,21 @@ OUTPUT(CH32V103R8T6.elf elf32-littleriscv)
  .debug_ranges  0x0000000000000788       0xe0 ./Peripheral/src/ch32v10x_usart.o
  .debug_ranges  0x0000000000000868       0x40 ./Debug/debug.o
 
-.debug_line     0x0000000000000000     0xaa53
- .debug_line    0x0000000000000000      0x47a ./User/inverter/app.o
- .debug_line    0x000000000000047a     0x1118 ./User/inverter/hardware.o
- .debug_line    0x0000000000001592       0x86 ./User/ch32v10x_it.o
- .debug_line    0x0000000000001618       0xc2 ./User/main.o
- .debug_line    0x00000000000016da      0x6be ./User/system_ch32v10x.o
- .debug_line    0x0000000000001d98      0x21e ./Startup/startup_ch32v10x.o
- .debug_line    0x0000000000001fb6     0x17db ./Peripheral/src/ch32v10x_adc.o
- .debug_line    0x0000000000003791      0x8a2 ./Peripheral/src/ch32v10x_dma.o
- .debug_line    0x0000000000004033      0xd9b ./Peripheral/src/ch32v10x_gpio.o
- .debug_line    0x0000000000004dce      0x457 ./Peripheral/src/ch32v10x_misc.o
- .debug_line    0x0000000000005225     0x109d ./Peripheral/src/ch32v10x_rcc.o
- .debug_line    0x00000000000062c2     0x3115 ./Peripheral/src/ch32v10x_tim.o
- .debug_line    0x00000000000093d7      0xe8f ./Peripheral/src/ch32v10x_usart.o
- .debug_line    0x000000000000a266      0x7ed ./Debug/debug.o
+.debug_line     0x0000000000000000     0xa70f
+ .debug_line    0x0000000000000000      0x42e ./User/inverter/app.o
+ .debug_line    0x000000000000042e     0x10cc ./User/inverter/hardware.o
+ .debug_line    0x00000000000014fa       0x86 ./User/ch32v10x_it.o
+ .debug_line    0x0000000000001580       0xc2 ./User/main.o
+ .debug_line    0x0000000000001642      0x672 ./User/system_ch32v10x.o
+ .debug_line    0x0000000000001cb4      0x21e ./Startup/startup_ch32v10x.o
+ .debug_line    0x0000000000001ed2     0x178f ./Peripheral/src/ch32v10x_adc.o
+ .debug_line    0x0000000000003661      0x856 ./Peripheral/src/ch32v10x_dma.o
+ .debug_line    0x0000000000003eb7      0xd4f ./Peripheral/src/ch32v10x_gpio.o
+ .debug_line    0x0000000000004c06      0x40b ./Peripheral/src/ch32v10x_misc.o
+ .debug_line    0x0000000000005011     0x1051 ./Peripheral/src/ch32v10x_rcc.o
+ .debug_line    0x0000000000006062     0x30c9 ./Peripheral/src/ch32v10x_tim.o
+ .debug_line    0x000000000000912b      0xe43 ./Peripheral/src/ch32v10x_usart.o
+ .debug_line    0x0000000000009f6e      0x7a1 ./Debug/debug.o
 
 .debug_str      0x0000000000000000     0x3571
  .debug_str     0x0000000000000000      0xe2f ./User/inverter/app.o
